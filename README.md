@@ -19,6 +19,8 @@ Activity Calories: Data is not listed as importable in Garmin guide.
 
 **Please double check the data units**
 
+When you upload the CSV files in Garmin dashboard, if the import page remains in "Your Upload is Still Processing, Please Check Upload Status" for an extended time, the file may be too large. Try increasing the 'number_of_export_files' setting. The default setting creates 2 CSV files.
+
 For more details on how to request and export your data from Fitbit, please follow Fitbit's guide: [Export your Fitbit data](https://support.google.com/fitbit/answer/14236615).<br>
 For a list of acceptable data, please check Garmin's guide: [Import Data From Fitbit to Garmin Connect](https://support.garmin.com/en-US/?faq=HfJ4xPchdD3cmZ2qtDpOR8)
 

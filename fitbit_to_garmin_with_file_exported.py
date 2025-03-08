@@ -29,7 +29,7 @@ dir_path = '{file path here}'
 save_file_name = 'fitbit_export_combine'
 
 # number of export files
-number_of_export_files = 10
+number_of_export_files = 2
 
 # Fitbit data that want to be import
 import_activity = ['weight',
